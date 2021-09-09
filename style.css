@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo, #logo:hover {
+    color: white;
+}
+
+
+.nav-link, .nav-link:hover {
+    color: white;
+}
+
+header {
+    background-color: black;
+}
+
+.turniej {
+    color: black;
+    text-align: center;
+}
+
+.turniej:hover {
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.srd {
+    margin: 0 auto;
+}
+
